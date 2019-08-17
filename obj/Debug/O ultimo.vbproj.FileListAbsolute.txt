@@ -1,0 +1,15 @@
+C:\Workspace\Another-Simple-CRUD-VB.net\O ultimo\O ultimo\bin\Debug\O ultimo.exe.config
+C:\Workspace\Another-Simple-CRUD-VB.net\O ultimo\O ultimo\bin\Debug\O ultimo.exe
+C:\Workspace\Another-Simple-CRUD-VB.net\O ultimo\O ultimo\bin\Debug\O ultimo.pdb
+C:\Workspace\Another-Simple-CRUD-VB.net\O ultimo\O ultimo\bin\Debug\O ultimo.xml
+C:\Workspace\Another-Simple-CRUD-VB.net\O ultimo\O ultimo\obj\Debug\O ultimo.vbprojResolveAssemblyReference.cache
+C:\Workspace\Another-Simple-CRUD-VB.net\O ultimo\O ultimo\obj\Debug\O_ultimo.Resources.resources
+C:\Workspace\Another-Simple-CRUD-VB.net\O ultimo\O ultimo\obj\Debug\O ultimo.vbproj.GenerateResource.Cache
+C:\Workspace\Another-Simple-CRUD-VB.net\O ultimo\O ultimo\obj\Debug\O ultimo.vbproj.CoreCompileInputs.cache
+C:\Workspace\Another-Simple-CRUD-VB.net\O ultimo\O ultimo\obj\Debug\O ultimo.exe
+C:\Workspace\Another-Simple-CRUD-VB.net\O ultimo\O ultimo\obj\Debug\O ultimo.xml
+C:\Workspace\Another-Simple-CRUD-VB.net\O ultimo\O ultimo\obj\Debug\O ultimo.pdb
+C:\Workspace\Another-Simple-CRUD-VB.net\O ultimo\O ultimo\obj\Debug\O_ultimo.FormPrincipal.resources
+C:\Workspace\Another-Simple-CRUD-VB.net\O ultimo\O ultimo\obj\Debug\O_ultimo.FormProdutos.resources
+C:\Workspace\Another-Simple-CRUD-VB.net\O ultimo\O ultimo\obj\Debug\O_ultimo.FormProduto.resources
+C:\Workspace\Another-Simple-CRUD-VB.net\O ultimo\O ultimo\obj\Debug\O_ultimo.FormCategorias.resources
